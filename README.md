@@ -1,11 +1,10 @@
-# Ground Control — alpha installs
+# alpha.ground_control v0.1.1
 
-**Friend-test Windows and Mac (Apple Silicon) builds.** There is no application source in this repository.
+alpha Windows and Mac (Apple Silicon) builds.** 
 
 | | |
 |--|--|
 | **Download** | [Latest release](https://github.com/WAVSVN/alpha.ground-control/releases/latest) |
-| **Source** | Private (not published here) |
 
 ## Install (Windows)
 
@@ -23,6 +22,4 @@
    ```
 4. Intel Mac is not supported in this alpha channel yet.
 
-## Support
 
-Ping the person who sent you this link. Do not open security issues against this empty releases repo.
